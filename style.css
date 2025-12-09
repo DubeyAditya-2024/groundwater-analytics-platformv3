@@ -1,0 +1,55 @@
+/* Custom CSS for Streamlit App */
+
+/* Global appearance */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f6; /* Very light background */
+}
+
+/* Header/Title */
+.stApp header {
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Custom button styling (Submit button) */
+.stButton > button {
+    background-color: #004d99; /* Deep Professional Blue */
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 12px 30px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 77, 153, 0.4); /* Stronger shadow */
+}
+
+/* Hover effect for button */
+.stButton > button:hover {
+    background-color: #003366; /* Darker Blue */
+    transform: translateY(-2px); /* Slight lift */
+    box-shadow: 0 6px 12px rgba(0, 77, 153, 0.5);
+}
+
+/* Styling for the custom result boxes (Metrics) */
+.result-box {
+    border: 1px solid #d4e3f3; /* Light blue border */
+    border-radius: 12px;
+    padding: 20px;
+    margin-top: 15px;
+    background-color: #f9fbfd; /* Near white background */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease, transform 0.2s ease;
+}
+
+/* Hover effect on result boxes (appealing lift effect) */
+.result-box:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    transform: translateY(-4px);
+}
+
+/* Hide Streamlit footer and menu for professionalism */
+#MainMenu { visibility: hidden; }
+footer { visibility: hidden; }

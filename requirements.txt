@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+numpy
+joblib
+scikit-learn
+tensorflow # Or tensorflow-cpu to save memory
+xgboost
+python-multipart # If you plan to handle file uploads

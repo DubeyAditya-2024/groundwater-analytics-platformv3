@@ -1,0 +1,73 @@
+dwlr_id,STATE/UT,DISTRICT,TEHSIL/BLOCK,VILLAGE NAME,SITE NAME,LATITUDE,LONGITUDE,WELL SITE TYP,WATER LEVEL,BATTERY LEVE,TIMESTAMP,Anomaly
+dwlr_ga_001,Goa,North Goa,Bardez,Alto Betim,Porvorim,15.524952,73.828539,Dug Well,11.9,61,05-12-2024 19:3,FALSE
+dwlr_ga_002,Goa,North Goa,Bardez,Anjuna Beach,Anjuna Beach,15.584236,73.738227,Dug Well,11.77,79,05-12-2024 19:3,FALSE
+dwlr_ga_003,Goa,North Goa,Bardez,Britona,Britona,15.512632,73.842861,Dug Well,2.5,99,05-12-2024 19:3,FALSE
+dwlr_ga_004,Goa,North Goa,Bardez,Calangute,Calangute,15.546138,73.758685,Dug Well,7.7,43,05-12-2024 19:3,FALSE
+dwlr_ga_005,Goa,North Goa,Bardez,Colval,Colval,15.643894,73.837117,Dug Well,13.05,28,05-12-2024 19:3,TRUE
+dwlr_ga_006,Goa,North Goa,Bardez,Mapuca,Mapuca,15.610277,73.824467,Dug Well,3.6,71,05-12-2024 19:3,FALSE
+dwlr_ga_007,Goa,North Goa,Bardez,Parra,Parra,15.572928,73.792718,Dug Well,2.44,47,05-12-2024 19:3,FALSE
+dwlr_ga_008,Goa,North Goa,Bardez,Pirna,Pirna,15.668757,73.881897,Dug Well,3.6,57,05-12-2024 19:3,FALSE
+dwlr_ga_009,Goa,North Goa,Bardez,Pomburpa Palm,Pomburpa Palm,15.559253,73.867591,Dug Well,3.82,58,05-12-2024 19:3,FALSE
+dwlr_ga_010,Goa,North Goa,Bardez,Salwardhar Dum,Salwardhar Dum,15.53767,73.868709,Dug Well,3.78,65,05-12-2024 19:3,FALSE
+dwlr_ga_011,Goa,North Goa,Bardez,Shivoli (Brahma,Shivoli (Brahma,15.623557,73.767247,Dug Well,2.23,37,05-12-2024 19:3,TRUE
+dwlr_ga_012,Goa,North Goa,Bardez,Sirsaim,Sirsaim,15.626789,73.875861,Dug Well,3.48,24,05-12-2024 19:3,FALSE
+dwlr_ga_013,Goa,North Goa,Bicholim,Adavapal,Adavapal,15.639972,73.895926,Dug Well,5.6,41,05-12-2024 19:3,FALSE
+dwlr_ga_014,Goa,North Goa,Bicholim,Devulawada Nar,Devulawada Nar,15.552048,73.924128,Dug Well,15.61,90,05-12-2024 19:3,TRUE
+dwlr_ga_015,Goa,North Goa,Bicholim,Dhatwado Vante,Dhatwado Vante,15.496036,74.097329,Dug Well,6.53,62,05-12-2024 19:3,FALSE
+dwlr_ga_016,Goa,North Goa,Bicholim,Jambhul Batt(M,Jambhul Batt(Ma,15.580413,73.926039,Dug Well,2.5,83,05-12-2024 19:3,FALSE
+dwlr_ga_017,Goa,North Goa,Bicholim,Mulgaon Shivalk,Mulgaon Shivalk,15.617182,73.920692,Dug Well,3.6,86,05-12-2024 19:3,FALSE
+dwlr_ga_018,Goa,North Goa,Bicholim,Olaulim,Olaulim,15.569607,73.863442,Dug Well,7.1,97,05-12-2024 19:3,FALSE
+dwlr_ga_019,Goa,North Goa,Bicholim,Sal,Sal,15.687915,73.92692,Dug Well,3.78,71,05-12-2024 19:3,FALSE
+dwlr_ga_020,Goa,North Goa,Pernem,Amberem,Amberem,15.561635,74.163265,Dug Well,7.96,53,05-12-2024 19:3,FALSE
+dwlr_ga_021,Goa,North Goa,Pernem,Hasaravanni Vai,Hasaravanni Vai,15.732513,73.899588,Dug Well,2.5,26,05-12-2024 19:3,FALSE
+dwlr_ga_022,Goa,North Goa,Pernem,Haspur,Haspur,15.739249,73.903267,Dug Well,5.22,64,05-12-2024 19:3,FALSE
+dwlr_ga_023,Goa,North Goa,Pernem,Korgaon,Korgaon,15.709224,73.751911,Dug Well,5.32,66,05-12-2024 19:3,FALSE
+dwlr_ga_024,Goa,North Goa,Pernem,Morji,Morji,15.636325,73.739646,Dug Well,1.94,61,05-12-2024 19:3,TRUE
+dwlr_ga_025,Goa,North Goa,Pernem,Nagjhar,Nagjhar,15.708477,73.853067,Dug Well,8.4,87,05-12-2024 19:3,FALSE
+dwlr_ga_026,Goa,North Goa,Pernem,Pernem,Pernem,15.71752,73.798217,Dug Well,3.18,49,05-12-2024 19:3,FALSE
+dwlr_ga_027,Goa,North Goa,Pernem,Sawanthwada(M,Sawanthwada(M,15.680817,73.751077,Dug Well,4.28,28,05-12-2024 19:3,FALSE
+dwlr_ga_028,Goa,North Goa,Pernem,Uguem(Ugawe),Uguem(Ugawe),15.754164,73.835113,Dug Well,4.1,62,05-12-2024 19:3,FALSE
+dwlr_ga_029,Goa,North Goa,Ponda,Bori,Bori,15.354327,74.001957,Dug Well,6.54,76,05-12-2024 19:3,FALSE
+dwlr_ga_030,Goa,North Goa,Ponda,Kundel Dassolw,Kundel Dassolw,15.452721,73.952419,Dug Well,2.21,97,05-12-2024 19:3,TRUE
+dwlr_ga_031,Goa,North Goa,Ponda,Mankem,Mankem,15.305193,74.048373,Dug Well,4.84,25,05-12-2024 19:3,FALSE
+dwlr_ga_032,Goa,North Goa,Ponda,Panchawadi,Panchawadi(pz),15.283625,74.095674,Dug Well,7.4,45,05-12-2024 19:3,FALSE
+dwlr_ga_033,Goa,North Goa,Ponda,Shiroda,Shiroda,15.320626,74.034039,Dug Well,8.09,45,05-12-2024 19:3,FALSE
+dwlr_ga_034,Goa,North Goa,Sattari,Bayalwadikeri(Q,Bayalwadikeri(Q,15.611276,74.067004,Dug Well,2.5,95,05-12-2024 19:3,FALSE
+dwlr_ga_035,Goa,North Goa,Sattari,Bhamber(Nanod,Bhamber(Nanod,15.587998,74.191332,Dug Well,5.8,92,05-12-2024 19:3,FALSE
+dwlr_ga_036,Goa,North Goa,Sattari,Bhujpal,Bhujpal,15.539244,74.088188,Dug Well,3.6,84,05-12-2024 19:3,FALSE
+dwlr_ga_037,Goa,North Goa,Sattari,Charayode,Charayode,15.627812,74.130891,Dug Well,4.93,81,05-12-2024 19:3,FALSE
+dwlr_ga_038,Goa,North Goa,Sattari,Honda,Honda,15.547147,74.050908,Dug Well,3.85,98,05-12-2024 19:3,FALSE
+dwlr_ga_039,Goa,North Goa,Sattari,Khadki(Harijanw,Khadki(Harijanw,15.502775,74.139667,Dug Well,8.55,33,05-12-2024 19:3,FALSE
+dwlr_ga_040,Goa,North Goa,Sattari,Khotodem,Khotodem,15.482768,74.136952,Dug Well,7.1,61,05-12-2024 19:3,FALSE
+dwlr_ga_041,Goa,North Goa,Sattari,Morlem,Morlem,15.593972,74.046324,Dug Well,14.65,30,05-12-2024 19:3,TRUE
+dwlr_ga_042,Goa,North Goa,Sattari,Nagargoan,Nagargoan,15.561576,74.163197,Dug Well,6.78,77,05-12-2024 19:3,FALSE
+dwlr_ga_043,Goa,North Goa,Sattari,Valpoi,Valpoi,15.533017,74.137217,Dug Well,6.05,30,05-12-2024 19:3,FALSE
+dwlr_ga_044,Goa,North Goa,Tiswadi,Gavalebhat,Chimbel(Kirl),Gavalebhat,Chimbel(Kirl),15.489382,73.874163,72,05-12-2024 19:3,TRUE
+dwlr_ga_045,Goa,North Goa,Tiswadi,Karanjhalen,Karanjhalen,15.458997,73.802807,Dug Well,3.27,35,05-12-2024 19:3,FALSE
+dwlr_ga_046,Goa,North Goa,Tiswadi,Velha Goa,Velha Goa,15.533006,74.137227,Dug Well,1.6,74,05-12-2024 19:3,TRUE
+dwlr_ga_047,Goa,South Goa,Canacona,Agonda Desaiw,Agonda Desaiwa,15.041265,73.991069,Dug Well,4.8,74,05-12-2024 19:3,FALSE
+dwlr_ga_048,Goa,South Goa,Canacona,Canacona,Canacona,15.007184,74.052149,Dug Well,4.15,84,05-12-2024 19:3,FALSE
+dwlr_ga_049,Goa,South Goa,Canacona,Daptamol Lolien,Daptamol Lolien,14.949857,74.05528,Dug Well,15.74,89,05-12-2024 19:3,TRUE
+dwlr_ga_050,Goa,South Goa,Canacona,Gulem Velipwad,Gulem Velipwad,15.039013,74.029346,Dug Well,3.72,93,05-12-2024 19:3,FALSE
+dwlr_ga_051,Goa,South Goa,Canacona,Hattipal Poingui,Hattipal Poinguin,14.984522,74.108506,Dug Well,16.31,89,05-12-2024 19:3,TRUE
+dwlr_ga_052,Goa,South Goa,Canacona,Polem(Polen),Polem(Polen),14.912892,74.084546,Dug Well,2.47,43,05-12-2024 19:3,FALSE
+dwlr_ga_053,Goa,South Goa,Canacona,Shrishtal Gaond,Shrishtal Gaond,15.037246,74.118511,Dug Well,2.44,73,05-12-2024 19:3,FALSE
+dwlr_ga_054,Goa,South Goa,Canacona,Varca,Varca,15.160758,73.957078,Dug Well,9.2,93,05-12-2024 19:3,FALSE
+dwlr_ga_055,Goa,South Goa,Margao,Assolna,Assolna,15.276665,74.039945,Dug Well,4.5,24,05-12-2024 19:3,FALSE
+dwlr_ga_056,Goa,South Goa,Margao,Betalbatim,Bethalbatim,15.263763,74.074065,Dug Well,3.86,42,05-12-2024 19:3,FALSE
+dwlr_ga_057,Goa,South Goa,Margao,Davorlim,Davorlim,15.285302,74.067367,Dug Well,2.5,49,05-12-2024 19:3,FALSE
+dwlr_ga_058,Goa,South Goa,Margao,Gomtimol,Gomtimol,15.276634,74.038489,Dug Well,2.5,89,05-12-2024 19:3,FALSE
+dwlr_ga_059,Goa,South Goa,Margao,Raia,Raia,15.289029,74.089174,Dug Well,6.67,88,05-12-2024 19:3,FALSE
+dwlr_ga_060,Goa,South Goa,Margao,Verna,Verna,15.287582,74.063443,Dug Well,3.6,61,05-12-2024 19:3,FALSE
+dwlr_ga_061,Goa,South Goa,Sanguem,Chandrapur,Chandrapur,15.137012,74.201083,Dug Well,10.5,37,05-12-2024 19:3,FALSE
+dwlr_ga_062,Goa,South Goa,Sanguem,Colamb,Colamb,15.107292,74.22366,Dug Well,4.4,39,05-12-2024 19:3,FALSE
+dwlr_ga_063,Goa,South Goa,Sanguem,Curtorim,Curtorim,15.209007,74.205674,Dug Well,6.72,93,05-12-2024 19:3,FALSE
+dwlr_ga_064,Goa,South Goa,Sanguem,Raikhind,Raikhind,15.189049,74.122455,Dug Well,4.79,72,05-12-2024 19:3,FALSE
+dwlr_ga_065,Goa,South Goa,Sanguem,Shigao,Shigao,15.045018,74.190245,Dug Well,9.55,63,05-12-2024 19:3,FALSE
+dwlr_ga_066,Goa,South Goa,Sanguem,Shigao,Sangul,15.142112,74.213839,Dug Well,2.34,79,05-12-2024 19:3,FALSE
+dwlr_ga_067,Goa,South Goa,Sanguem,Verem(Shigao),Verem(Shigao),15.104334,74.232898,Dug Well,9.32,62,05-12-2024 19:3,FALSE
+dwlr_ga_068,Goa,South Goa,Quepem,Cuncolim,Cuncolim,15.207622,74.105578,Dug Well,7.5,47,05-12-2024 19:3,FALSE
+dwlr_ga_069,Goa,South Goa,Quepem,Quepem,Quepem,15.25536,74.084526,Dug Well,5.18,71,05-12-2024 19:3,FALSE
+dwlr_ga_070,Goa,South Goa,Quepem,Quepem Qryale,Quepem Qryale,15.225104,74.042524,Dug Well,2.62,94,05-12-2024 19:3,FALSE
+dwlr_ga_071,Goa,South Goa,Quepem,Sanvordem,Sanvordem,15.257881,74.11607,Dug Well,3.79,22,05-12-2024 19:3,FALSE
+dwlr_ga_072,Goa,South Goa,Quepem,Verna,Verna,15.272978,74.121091,Dug Well,6.11,82,05-12-2024 19:3,FALSE
