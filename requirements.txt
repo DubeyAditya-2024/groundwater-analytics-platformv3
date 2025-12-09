@@ -1,10 +1,15 @@
 fastapi
+gunicorn
 uvicorn[standard]
+# Include all other dependencies for your models:
 pydantic
 pandas
 numpy
 joblib
 scikit-learn
-tensorflow # Or tensorflow-cpu to save memory
+tensorflow 
 xgboost
-python-multipart # If you plan to handle file uploads
+python-multipart 
+plotly
+dash
+dash-bootstrap-components
